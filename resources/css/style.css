@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+header{
+    
+    text-align: center;
+}
+header h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: white;
+}
+header a{
+    text-decoration: underline;
+    color: #7fffd4;
+}
