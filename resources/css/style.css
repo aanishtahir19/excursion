@@ -32,3 +32,11 @@ section p{
     font-weight: 400;
     color: grey;
 }
+footer h1{
+    font-size: 40px;
+    font-weight: 400;
+}
+footer a{
+    text-decoration: underline;
+    color: #7fffd4;
+}
